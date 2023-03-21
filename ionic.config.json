@@ -1,0 +1,7 @@
+{
+  "name": "Todapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
